@@ -45,3 +45,29 @@ body{
 .imgs img{
     max-width: 100%;
 }
+.katooni_item{
+    padding: 16px;
+    width: 25%;
+}
+.katooni_card{
+    color: #b9b9b9;
+    border: 1px solid #b9b9b9;
+    background-color: #232222;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.card_header img{
+    width: 100%;
+    height: auto;
+    border-radius: 15px 15px 0 0;
+    -webkit-border-radius: 15px 15px 0 0;
+    -moz-border-radius: 15px 15px 0 0;
+    -ms-border-radius: 15px 15px 0 0;
+    -o-border-radius: 15px 15px 0 0;
+}
+.card_body{
+    padding: 20px 10px;
+}
