@@ -45,9 +45,13 @@ body{
 .imgs img{
     max-width: 100%;
 }
+
+
+
 .katooni_item{
     padding: 16px;
     width: 25%;
+    display: flex;
 }
 .katooni_card{
     color: #b9b9b9;
